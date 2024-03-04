@@ -1,4 +1,4 @@
-![image](https://github.com/HoangQuocPhu/ETL_PYTHON/assets/117524012/43748b85-4b22-4f58-87e3-a26e00b4cb42)# About this script
+# About this script
 Connect to  PostgreSQL data warehouse and identify the last row on it.
 Connect to MySQL staging data warehouse and find all rows later than the last row on the datawarehouse.
 Insert the new data in the MySQL staging data warehouse into the PostgreSQL production data warehouse.
