@@ -9,3 +9,7 @@ Use PostgreSQL as a Data Warehouse
 
 # Dataset : Sales data
 ![image](https://github.com/HoangQuocPhu/ETL_PYTHON/assets/117524012/528f35ba-7c94-4107-8cf4-b2367784194f)
+
+# Process Result
+![image](https://github.com/HoangQuocPhu/ETL_PYTHON/assets/117524012/0aecb66e-9722-46fe-8e9f-770a6b568a59)
+
